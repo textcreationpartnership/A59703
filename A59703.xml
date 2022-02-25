@@ -1,0 +1,980 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fortunes tennis-ball, or, The most excellent history of Dorastus and Fawnia rendered in delightfull English verse, and worthy the perusal of all sorts of people / by S.S., Gent.</title>
+            <author>S. S., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59703</idno>
+            <idno type="STC">Wing S3165</idno>
+            <idno type="STC">ESTC R41391</idno>
+            <idno type="EEBO-CITATION">31355255</idno>
+            <idno type="OCLC">ocm 31355255</idno>
+            <idno type="VID">110367</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110367)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1753:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fortunes tennis-ball, or, The most excellent history of Dorastus and Fawnia rendered in delightfull English verse, and worthy the perusal of all sorts of people / by S.S., Gent.</title>
+                  <author>S. S., Gent.</author>
+                  <author>Greene, Robert, 1558?-1592. Pandosto.</author>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for J. Deacon ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Imperfect: tightly bound, and with print show-through and loss of text.</note>
+                  <note>A metrical version of Robert Green's novel Pandosto, first published in 1588, and later issued as: The pleasant historie of Dorastus and Fawnia. On this novel Shakespeare based Winter's tale.</note>
+                  <note>Wing (2nd ed.) attributes this work to Samuel Sheppard.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110367:1"/>
+            <pb facs="tcp:110367:1" rendition="simple:additions"/>
+            <p>
+               <hi>Fortunes Tennis-Ball:</hi> OR, The Moſt Excellent Hiſtory OF <hi>Doraſtus</hi> and <hi>Fawnia.</hi>
+            </p>
+            <p>Rendered in Delightful Engliſh Verſe; and worthy the Peruſal of all ſorts of People</p>
+            <p>By <hi>S S.</hi> Gent. <hi>Lucis Anecreon.</hi>
+            </p>
+            <p>Licenſed according to Order.</p>
+            <figure/>
+            <p>Printed by <hi>A. M.</hi> for <hi>I. Deacon</hi> at the Angel in <hi>Guilt-ſpur-street,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:110367:2"/>
+            <pb facs="tcp:110367:2"/>
+            <head>The moſt Excellent Hiſtory OF <hi>DORASTUS</hi> and <hi>FAWNIA.</hi>
+            </head>
+            <div n="1" type="canto">
+               <head>CANT. I.</head>
+               <lg>
+                  <l>Bohemia'<hi>s King is viſited</hi>
+                  </l>
+                  <l>
+                     <hi>By</hi> Sicil'<hi>s Prince (who hath been bred</hi>
+                  </l>
+                  <l>
+                     <hi>In King</hi> Pandoſto'<hi>s Royal Court:)</hi>
+                  </l>
+                  <l>
+                     <hi>Who doubts his Queen and he do ſport</hi>
+                  </l>
+                  <l>
+                     <hi>Between the ſheets, and (though in vain)</hi>
+                  </l>
+                  <l>
+                     <hi>Contrives a way to have been ſlain:</hi>
+                  </l>
+                  <l>Egiſtus <hi>ſees the ſnare, and flies</hi>
+                  </l>
+                  <l>
+                     <hi>By Sea, to eſcape theſe Treacheries.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>INſpire me gentle Love, and jealouſie</l>
+                  <l>Give me thy paſſion, and thy extaſie:</l>
+                  <l>While to a pleaſant Air I ſtrike the ſtrings,</l>
+                  <l>Singing the Fates of Lovers and of Kings.</l>
+                  <l>Fertile <hi>Bohemia</hi> (fam'd in <hi>German</hi> ſtories,</l>
+                  <l>For happy government, and of her glories.)</l>
+                  <l>Had once a King <hi>Pandoſto</hi> nam'd, by birth</l>
+                  <l>Exceeding Royal, and for innate worth</l>
+                  <l>Every way excellent: his royal Mate,</l>
+                  <l>
+                     <hi>Bellaria</hi> call'd, a woman bleſt by Fate,</l>
+                  <pb facs="tcp:110367:3"/>
+                  <l>With learned Education, fair by nature,</l>
+                  <l>For Vertue famous, earths divineſt creature:</l>
+                  <l>This happy pair had not been married long,</l>
+                  <l>(Scarce had they reach'd the Key of <hi>Hymens</hi> ſong)</l>
+                  <l>When generous <hi>Lucina</hi> gave a boy,</l>
+                  <l>To their hearts comfort, and the general joy:</l>
+                  <l>The King to manifeſt his high content,</l>
+                  <l>Proclaim'd a ſolemn Juſt or Turnament;</l>
+                  <l>Fame bears the Embaſſie on Eagles wings,</l>
+                  <l>His Court is now a Parliament of Kings:</l>
+                  <l>Great feaſtings, masks, mirth, &amp; deeds of arms,</l>
+                  <l>While <hi>Honor</hi> ſits inthron'd <hi>with</hi> all her charms</l>
+                  <l>But when this great Aſſembly takes her leave,</l>
+                  <l>(And Royal Preſent from the King receive)</l>
+                  <l>The Infant Prince <hi>(Garinter)</hi> doth conſort</l>
+                  <l>With careful Nurſes in his Fathers Court;</l>
+                  <l>What can the powers Etherial add to this?</l>
+                  <l>Can great <hi>Pandoſto</hi> wiſh for better bliſs?</l>
+                  <l>Or ſweet <hi>Bellaria</hi> covet more than Fate</l>
+                  <l>Already hath confer'd? But what Eſtate</l>
+                  <l>Can boaſt a firm fixt <hi>Baſis,</hi> if the blind,</l>
+                  <l>Falſe, ſickle Goddeſs hath its fall deſign'd:</l>
+                  <l>
+                     <hi>Sicilia</hi>'s King <hi>(Egiſtus)</hi> who had found</l>
+                  <l>His Education on <hi>Bohemian</hi> ground</l>
+                  <l>From's Infancy, until the gods had given</l>
+                  <l>Him power on earth like to the powers in hea<g ref="char:EOLhyphen"/>ven:</l>
+                  <l>To manifeſt no tract of time could race</l>
+                  <l>His friendſhip out, nor diſtancy of place</l>
+                  <l>Eſtrange his love, in ſhips well rig'd &amp; man'd,</l>
+                  <l>If cauſe requir'd the pyrats to withſtand,</l>
+                  <pb facs="tcp:110367:3"/>
+                  <l>Burthens great <hi>Neptune's</hi> back, a choſen train</l>
+                  <l>Of peers attending on their Soveraign:</l>
+                  <l>The winds were ſtill, no noxious blaſt has pow<g ref="char:EOLhyphen"/>er</l>
+                  <l>To ſally forth from <hi>Aeolas</hi> brazen tower;</l>
+                  <l>The ſeas are calm, the crooked Dolphins play,</l>
+                  <l>
+                     <hi>Doris</hi> fair daughter dancing all the way,</l>
+                  <l>Till great <hi>Egiſtus</hi> treads that happy earth,</l>
+                  <l>Had been his Foſter-mother from his birth.</l>
+                  <l>
+                     <hi>Bellaria</hi> in whoſe breaſt the Graces reſted,</l>
+                  <l>With all the Glories of her ſex inveſted)</l>
+                  <l>Imagining her Husbands Kingly heart</l>
+                  <l>Would be the more her own, did ſhe impart</l>
+                  <l>All ſpecial favours, to his friend, admitted,</l>
+                  <l>(Perhaps more intimacy than befitted)</l>
+                  <l>
+                     <hi>Egistus</hi> to her private walks, her Eye</l>
+                  <l>Revealing her mind's (juſt) captivity:</l>
+                  <l>His Chamber oftentimes ſhe would frequent,</l>
+                  <l>Which caus'd ſuſpicion, tho' no ill was meant:</l>
+                  <l>For theſe two Conſtellations ſtill did move</l>
+                  <l>Within the Orb of true <hi>Platonick</hi> love.</l>
+                  <l>
+                     <hi>Pandosto</hi> marks their meetings, and doth fry</l>
+                  <l>In the blue flames of baneful jealouſie:</l>
+                  <l>He calls to mind the beauty of his dear,</l>
+                  <l>And then <hi>Egiſtus</hi> merits do appear</l>
+                  <l>Full bloom'd; he next begins to ſcrutinize</l>
+                  <l>Their private union, and their Coloquies;</l>
+                  <l>He ſtraightway fancies, and concludes at laſt,</l>
+                  <l>
+                     <hi>Egist.</hi> a Villain, and his Wife unchaſt:</l>
+                  <l>Theſe erring fires ſhall lead him up and down</l>
+                  <l>Till he grows weary of his Life and Crown.</l>
+                  <pb facs="tcp:110367:4"/>
+                  <l>But yet he knows not which way to compoſe</l>
+                  <l>A ruine which may (falſly) cruſh his Foes:</l>
+                  <l>He knows <hi>Egiſtus</hi> is a mighty King,</l>
+                  <l>And cannot ſink without his ruining:</l>
+                  <l>He knows his Wife has every ſubjects heart,</l>
+                  <l>Paying juſt homage to her high deſert:</l>
+                  <l>Since then there is no force of publick force,</l>
+                  <l>He now reſolves to take a private courſe:</l>
+                  <l>
+                     <hi>Egiſtus</hi> ſhall not fall by ſteel, but die</l>
+                  <l>By poyſon, this muſt <hi>Franion</hi>'s induſtry</l>
+                  <l>Accompliſh; he that bears his cup muſt kill</l>
+                  <l>His gentle friend, and he'l reward thee ill</l>
+                  <l>With numerous dignities, but <hi>Franion</hi>'s ſoul</l>
+                  <l>Dreadly abhors to act a deed ſo foul:</l>
+                  <l>He therefore ſets before the King what guilt</l>
+                  <l>He would accrew, what blood muſt needs he ſpilt</l>
+                  <l>What miſeries muſt follow: but in vain</l>
+                  <l>Does <hi>Franion</hi> charm his Serpent ſoveraign:</l>
+                  <l>He muſt perform't or die; O killing words!</l>
+                  <l>But <hi>Franion,</hi> who by millions of ſwords</l>
+                  <l>Had rather periſh, than (to give conſent</l>
+                  <l>Unto his Prince) to kill the innocent:</l>
+                  <l>Reſolves (what ever haps) to break the thing,</l>
+                  <l>Though't break his neck) unto <hi>Sicilia</hi>'s King:</l>
+                  <l>To him he opens all; <hi>Egiſtus</hi> ſcarce</l>
+                  <l>Can credit <hi>Franion</hi>'s tale, though his diſcourſe</l>
+                  <l>Have ſecret truth for warrant. Can it be</l>
+                  <l>
+                     <hi>Pandoſto</hi> ſhould be treacherous? (quoth he)</l>
+                  <l>Firſt i'le believe earth moves, &amp; heaven ſtands ſtill,</l>
+                  <l>I never propt his foes, or ſought his ill:</l>
+                  <pb facs="tcp:110367:4"/>
+                  <l>But <hi>Franion,</hi> to remove all doubts, declares</l>
+                  <l>If that <hi>Egiſtus</hi> will forſake theſe ſnares,</l>
+                  <l>And ſail into <hi>Sicilia,</hi> if when there</l>
+                  <l>(Safe in his fulgent throne, &amp; free from fear.)</l>
+                  <l>The truth of this Narration were not ſhown,</l>
+                  <l>To ſeize his life by tortures yet unknown.</l>
+                  <l>
+                     <hi>Egiſtus</hi> now believes, and craves advice</l>
+                  <l>Of <hi>Franion</hi> (whom he finds maturely wiſe)</l>
+                  <l>He counſels him, if now the winds ſat right,</l>
+                  <l>To weigh his Anchor, and ſet ſail that night.</l>
+                  <l>Fortune (though blind) favours this righteous cauſe,</l>
+                  <l>With buſie care: nor doth <hi>Egiſtus</hi> pauſe,</l>
+                  <l>But (by the help of <hi>Franion)</hi> ſecretly</l>
+                  <l>With winged haſte (by help of <hi>Luna</hi>'s lunacy)</l>
+                  <l>He paſſes through the City Poſtern-gate</l>
+                  <l>With all his train, and is ſo bleſt by fate,</l>
+                  <l>To find the Skies ſerene, the Surgos came</l>
+                  <l>Within the ſight of <hi>Syracuſe:</hi> the ſhore</l>
+                  <l>Is throng'd with loyal ſubjects, to adore</l>
+                  <l>Their lawful Prince; their cheerful ecchoes ring,</l>
+                  <l>
+                     <hi>Heavens bleſs our Soveraign, GOD preſerve the KING.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="canto">
+               <pb facs="tcp:110367:5"/>
+               <head>CANT. II.</head>
+               <lg>
+                  <l>Pandoſto <hi>ſeizes on his Queen,</hi>
+                  </l>
+                  <l>
+                     <hi>What various griefs and woes are ſeen?</hi>
+                  </l>
+                  <l>
+                     <hi>She brings a Daughter forth, whom he</hi>
+                  </l>
+                  <l>
+                     <hi>Leaves to the mercy of the Sea,</hi>
+                  </l>
+                  <l>
+                     <hi>In a frail boat:</hi> Bellaria'<hi>s try'd</hi>
+                  </l>
+                  <l>
+                     <hi>For looſeneſs and for Paracide:</hi>
+                  </l>
+                  <l>
+                     <hi>But by</hi> Apollo'<hi>s upright doom,</hi>
+                  </l>
+                  <l>
+                     <hi>She ſcapes a wiſht-for Martyrdom.</hi>
+                  </l>
+                  <l>
+                     <hi>The Prince</hi> Garinter <hi>dies, whoſe death</hi>
+                  </l>
+                  <l>
+                     <hi>Bereaves the Queen</hi> Bellaria'<hi>s breath.</hi>
+                  </l>
+                  <l>Pandoſto'<hi>s penitence (too late)</hi>
+                  </l>
+                  <l>
+                     <hi>Who builds a Tomb to humour fate.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>EGiſtus</hi> thus delivered by the god,</l>
+                  <l>From eminent ruine, all their Altars loads</l>
+                  <l>With Sacrifices, for their bleſt ſupport,</l>
+                  <l>When death did want him in <hi>Pandoſto</hi>'s Court:</l>
+                  <l>Whoſe Citizens are all in uproar, they</l>
+                  <l>Believe that the <hi>Sicilians</hi> went away</l>
+                  <l>Doubting ſome curſt contrivance, ſince their flight</l>
+                  <l>Was ſhrouded with the ſullen miſts of night:</l>
+                  <l>But King <hi>Pandoſto</hi> now will Pawn his life,</l>
+                  <l>That his Cup-bearer <hi>(Franion)</hi> and his Wife</l>
+                  <l>
+                     <hi>Bellaria,</hi> had plotted this protection,</l>
+                  <l>Prov'd by the fervency of her affection:</l>
+                  <l>So swoln with rage, he inſtantly commands</l>
+                  <l>Thſſe of the Guard, to lay their guity hands</l>
+                  <pb facs="tcp:110367:5"/>
+                  <l>Upon his guiltleſs Queen (there's no denial)</l>
+                  <l>And make her Priſoner till the day of tryal:</l>
+                  <l>The Guard (with much reluctancy) perform</l>
+                  <l>The King commands, the words of Kings can charm.</l>
+                  <l>They find her playing with her pretty Son</l>
+                  <l>
+                     <hi>Garinter,</hi> and declare what muſt be done</l>
+                  <l>
+                     <hi>Bellaria</hi> ſwouns for ſorrow, when ſhe hears</l>
+                  <l>The cruel meſſage (which they tell in tears.)</l>
+                  <l>But her immaculate, thrice ſpotleſs mind.</l>
+                  <l>Sings her <hi>Quietus,</hi> though her death's deſign'd</l>
+                  <l>Away ſhe goes (free from the thought of crime)</l>
+                  <l>In doleful ſighs and tears to paſs the time,</l>
+                  <l>
+                     <hi>Pandoſto</hi> then complains (his own diſgrace)</l>
+                  <l>That King <hi>Egistus</hi> had ſupply'd his place.</l>
+                  <l>Rode in his ſaddle, (tho his old companion)</l>
+                  <l>By the lewd practice of the Traytor <hi>Franion</hi>
+                  </l>
+                  <l>Who now is fled away with <hi>Sicils</hi> King,</l>
+                  <l>He therefore, muſt be juſt in puniſhing</l>
+                  <l>His Wifes adultery, the people (who</l>
+                  <l>Do never further than the outſide go)</l>
+                  <l>Eaſily fancy the report, ſhe ſtood</l>
+                  <l>(Say they) one fair in fame, ſhe once was good:</l>
+                  <l>The injur'd Queen mean time is tyr'd with wo;</l>
+                  <l>And now (as Fates conſpire her overthrow)</l>
+                  <l>She finds her ſelf with Child, ſhe wrings her hands,</l>
+                  <l>For now, quoth ſhe, the King confirmed ſtands,</l>
+                  <l>(Who cruelly conſents to credit fables)</l>
+                  <l>That <hi>Egist.</hi> put a wrong point in his tables:</l>
+                  <pb facs="tcp:110367:6"/>
+                  <l>O how does Fortune in diſaſter vary,</l>
+                  <l>Tho' ſafely brought to bed, I muſt miſcarry;</l>
+                  <l>The ſailor bears a part in this ſame Ditty,</l>
+                  <l>And thinking it would move the King to pity,</l>
+                  <l>Conveys the ſtory to his Royal Ear,</l>
+                  <l>Who raves &amp; foams like ſome incenſed Bear,</l>
+                  <l>Baited by Maſtiffs: he ſhall ſurely die,</l>
+                  <l>Qd. he, tho' <hi>Iove</hi> ſhould give my words the lie:</l>
+                  <l>Her Baſtard too ſhall ſuffer death, by this,</l>
+                  <l>The Glory of the Sex delivered is</l>
+                  <l>Of a fair Daughter, this <hi>Pandoſto</hi> hears,</l>
+                  <l>And holding up his hand to Heaven, ſwears</l>
+                  <l>Both Child &amp; Mother ſhall be burnt with fire,</l>
+                  <l>His Nobles ſtrive to mitigate his ire:</l>
+                  <l>They tell him that his Queen had ever prov'd</l>
+                  <l>How much ſhe honour'd, &amp; how much ſhe lov'd</l>
+                  <l>His ſacred Perſon; ſay ſhe were defil'd</l>
+                  <l>Nature and Juſtice yet would ſpare the child:</l>
+                  <l>But all theſe reaſons cannot abate his grudge,</l>
+                  <l>Who is the Queens Accuſer, and her Judge:</l>
+                  <l>But yet at laſt he is content to ſpare</l>
+                  <l>The child, but find a death more cruel far:</l>
+                  <l>He lights on this device: the child, quoth he,</l>
+                  <l>As't came by Fortune, ſo to Deſtiny</l>
+                  <l>I will commit it in a ſledgy Boat;</l>
+                  <l>This Royal infant muſt on <hi>Neptune</hi> float;</l>
+                  <l>Left to the mercy of the winds &amp; ſeas,</l>
+                  <l>But Heaven has care of ſuch ſweet Babes as theſe:</l>
+                  <l>He then commands his Guard to fetch the Brat</l>
+                  <l>(For ſo he terms it) who was ſucking at</l>
+                  <pb facs="tcp:110367:6"/>
+                  <l>Its mothers milky tears; what heart can think?</l>
+                  <l>Had I huge Oaks for Pens, the ſea for Ink,</l>
+                  <l>And <hi>Homer</hi>'s deathleſs Verſe, I could not ſhow</l>
+                  <l>Half the ſtern horror of <hi>Bellaria</hi>'s woe.</l>
+                  <l>Half dead they leave the Queen, and bring the child</l>
+                  <l>Whoſe face would make a ſavage <hi>Scythian</hi> mild,</l>
+                  <l>Unto the King, who ſtrait commands his guard</l>
+                  <l>To put it into the little Boat, prepar'd</l>
+                  <l>For this fell purpoſe, neither Rudder nor</l>
+                  <l>A Sail to guide it to ſome happy ſhore:</l>
+                  <l>The Infant plac'd, unto a ſhip they tye</l>
+                  <l>The little Bark, and hale it inſtantly</l>
+                  <l>Into the Main; this done, they cut the cord,</l>
+                  <l>And then return to certifie their Lord.</l>
+                  <l>They were no ſooner gone, but there aroſe</l>
+                  <l>A mighty Tempeſt, like to potent foes;</l>
+                  <l>
+                     <hi>Auſtes</hi> with <hi>Boneas</hi> fights, the ſeas ſwell high,</l>
+                  <l>The ſparkling Surges front the weeping Skie.</l>
+                  <l>But here the Muſe muſt leave this Theam a while</l>
+                  <l>And unto King <hi>Pandoſto</hi> turn her ſtile:</l>
+                  <l>Who yet not glutted with revenge, conveens</l>
+                  <l>All his chief Lords, declaring that he means,</l>
+                  <l>His trothleſs Queen in open Court to try,</l>
+                  <l>For Murder (meant) and for Adultery:</l>
+                  <l>Behold, <hi>Bellaria</hi>'s at the Bar, ſhe throws</l>
+                  <l>A light about her, though hem'd in with woes.</l>
+                  <l>Her innocence gives courage above thought.</l>
+                  <l>And now the Kings hir'd witneſſes are <hi>brought</hi>
+                  </l>
+                  <l>Who heard the hapleſs Queen declare her grief,</l>
+                  <l>That King <hi>Pandoſto</hi> ever had the chief</l>
+                  <pb facs="tcp:110367:7"/>
+                  <l>Seat in her heart, that ſhe had ever been</l>
+                  <l>His faithful ſubject, and his loyal Queen:</l>
+                  <l>That ſhe no love had to <hi>Egiſtus</hi> ſhown,</l>
+                  <l>But ſuch as ſtricteſt Anchorites might own:</l>
+                  <l>
+                     <hi>Pandosto</hi> tells her, that her ſureſt fence</l>
+                  <l>(Conſidering her Crime) was impudence:</l>
+                  <l>Her guilt emboldens her, but thou ſhalt die,</l>
+                  <l>Quoth he, by furious fire, to typifie</l>
+                  <l>Thy fate in Hell: <hi>Bellaria</hi> kneeling on</l>
+                  <l>The humble earth (in a diſtracted tone)</l>
+                  <l>Beſought the King, by the great love he bare,</l>
+                  <l>To his young ſon <hi>Garinter,</hi> his ſole heir,</l>
+                  <l>To grant her one requeſt; 'twas this, to ſend</l>
+                  <l>Six of his Nobles, <hi>Phoebus</hi> to attend</l>
+                  <l>At <hi>Delphos,</hi> if that God (who all things knew)</l>
+                  <l>Should ratifie her guilt, all torments due</l>
+                  <l>To parricide, and vile adulterous ſin,</l>
+                  <l>Practis'd againſt the Perſon of a King,</l>
+                  <l>Might be inflicted: this moſt juſt requeſt</l>
+                  <l>So reaſonable, could not find the leaſt</l>
+                  <l>Repulſe, without <hi>Pandoſto</hi> by his deeds</l>
+                  <l>Will make it know, his Will all Law exceeds:</l>
+                  <l>The Queen returns to Priſon, he to Court;</l>
+                  <l>And the ſix Lords together now conſort</l>
+                  <l>For <hi>Cynthia</hi>'s temple, &amp; three weeks expir'd,</l>
+                  <l>Their feet ſalute that ſhore ſo much deſir'd,</l>
+                  <l>With great Devotion the ſix Peers paſs on,</l>
+                  <l>Unto the fame of fam'd <hi>Hyperion:</hi>
+                  </l>
+                  <l>Where come, they offer liberal ſacrifice,</l>
+                  <l>And gratifie his Prieſts with Gifts of price:</l>
+                  <pb facs="tcp:110367:7"/>
+                  <l>They had not long chanted the Hymn divine</l>
+                  <l>Kneeling down before <hi>Apollo</hi>'s ſhrine,</l>
+                  <l>But they might hear a voice reſembling thun<g ref="char:EOLhyphen"/>der,</l>
+                  <l>(To their great joy, but to their greater won<g ref="char:EOLhyphen"/>der)</l>
+                  <l>Crying, <hi>Bohemians,</hi> what ye apt to find</l>
+                  <l>Behind the Altar, take up: 'tis the mind</l>
+                  <l>Of great <hi>Apollo,</hi> they forthwith obey,</l>
+                  <l>And find a parchment ſcroll, which thus did ſay.</l>
+               </lg>
+               <floatingText xml:lang="eng" type="oracle">
+                  <body>
+                     <head>THE ORACLE.</head>
+                     <lg>
+                        <l>
+                           <hi>Suſpicions are no proofs, and jealouſie</hi>
+                        </l>
+                        <l>
+                           <hi>A Iudge that's ſwag'd by damn'd partiality:</hi>
+                        </l>
+                        <l>Bellaria'<hi>s chast,</hi> Egiſtus <hi>void of blame,</hi>
+                        </l>
+                        <l>Pandoſto <hi>treacherous, and void of ſhame:</hi>
+                        </l>
+                        <l>Franion'<hi>s a Loyal Subject; the ſweet Child,</hi>
+                        </l>
+                        <l>
+                           <hi>(That in a paper Cock-boat was exil'd</hi>
+                        </l>
+                        <l>
+                           <hi>Its native Country) is most innocent:</hi>
+                        </l>
+                        <l>Pandoſto <hi>ſhall embrace his Monument,</hi>
+                        </l>
+                        <l>
+                           <hi>Without an Heir, unleſs the Femal's found,</hi>
+                        </l>
+                        <l>
+                           <hi>whom</hi> July <hi>men conjecture to be drown'd.</hi>
+                        </l>
+                     </lg>
+                  </body>
+               </floatingText>
+               <lg>
+                  <l>No ſooner had the Lords this Schedule hand<g ref="char:EOLhyphen"/>led,</l>
+                  <l>But by <hi>Apollo</hi>'s Prieſts they were commanded,</l>
+                  <l>Not to preſume to read it till they came</l>
+                  <l>Unto <hi>Pandoſto</hi> (as they dread the name</l>
+                  <l>Of ſacred <hi>Phoebus)</hi> home return'd, they tell</l>
+                  <l>The King what hapned at the Oracle:</l>
+                  <l>Shewing the ſcroll, the Nobles of the Land</l>
+                  <l>Intreat the K. he forthwith would command</l>
+                  <l>The Queen unto the Bar, and there, before</l>
+                  <l>The Lords &amp; Commons, if ſhe were a Whore,</l>
+                  <pb facs="tcp:110367:8"/>
+                  <l>Appoint her ſuch a death as might deter</l>
+                  <l>Her ſex from paths ſo much irregular;</l>
+                  <l>But if her grace were faultleſs found, that then</l>
+                  <l>She might be lov'd and honour'd once agen.</l>
+                  <l>This counſel pleas'd <hi>Pandoſto,</hi> and next day</l>
+                  <l>His Peers they all appear, the people they</l>
+                  <l>May witneſs with them; poor <hi>Bellaria</hi> ſtands</l>
+                  <l>Before the Bar, to Heaven her eyes and hands</l>
+                  <l>She lifts, her ſoul-Indictment's read, but ſhe</l>
+                  <l>Puts in a pithy and a noble plea;</l>
+                  <l>
+                     <hi>Pandoſto</hi> then commands a Duke to read</l>
+                  <l>The ſcroll, being what <hi>Apollo</hi> had decreed:</l>
+                  <l>Which when the people heard, they clapt their hands</l>
+                  <l>While King <hi>Pandoſto</hi> all amazed ſtands,</l>
+                  <l>Aſham'd of his raſh folly, but at laſt</l>
+                  <l>He begs <hi>Bellaria</hi> to forgive what's paſt:</l>
+                  <l>But while he's courting her, that's eaſily led,</l>
+                  <l>Black news is brought that Prince <hi>Garinter</hi>'s dead,</l>
+                  <l>
+                     <hi>which ſoon</hi> as fair <hi>Bellaria</hi> hears, ſhe dies,</l>
+                  <l>Her ſoul aſcending to the Deities.</l>
+                  <l>The King (affectionate too late) ſo much</l>
+                  <l>Laments her death, his inward grief is ſuch,</l>
+                  <l>For 3 days ſpace he's ſpeechleſs, but at length</l>
+                  <l>Recovering his forfeit ſpeech and ſtrength;</l>
+                  <l>He pours forth ſeas of tears, and makes ſuch moan,</l>
+                  <l>Rocks would relent to hear him ſigh &amp; groan:</l>
+                  <l>But time aſſwages theſe laments: the King</l>
+                  <l>Makes preparation for the burying</l>
+                  <l>Of chaſt <hi>Bellaria,</hi> and his lifeleſs Heir,</l>
+                  <l>Whom in one ſumptuous tomb he doth interr</l>
+                  <pb facs="tcp:110367:8"/>
+                  <l>Making ſuch ſolemn Obſequies, as told</l>
+                  <l>How dear he did his Queen <hi>Bellaria</hi> hold:</l>
+                  <l>Upon whoſe Tomb (the glory of her kind)</l>
+                  <l>In golden Letters were theſe numbers ſign'd,</l>
+                  <l>
+                     <hi>Here lies intomb'd</hi> Bohemia'<hi>s bleſſed Queen,</hi>
+                  </l>
+                  <l>(Bellaria) <hi>whoſe fame ſhall flouriſh green;</hi>
+                  </l>
+                  <l>
+                     <hi>While</hi> Sol <hi>ſhall dart a beam, accus'd to be</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nchaſt and conſcious of Adultery:</hi>
+                  </l>
+                  <l>
+                     <hi>But by</hi> Apollo'<hi>s ſacred arbitration,</hi>
+                  </l>
+                  <l>
+                     <hi>Reſtor'd with glory to her former station.</hi>
+                  </l>
+                  <l>
+                     <hi>Yet ſlain with grief at last, grief that had long</hi>
+                  </l>
+                  <l>
+                     <hi>Surchang'd her ſoul, caus'd by her Husbands wrong:</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore whoe'r thou art that paſſeth by</hi>
+                  </l>
+                  <l>
+                     <hi>Curſe him that caus'd this Royal Queen to die.</hi>
+                  </l>
+                  <l>Into this Monument once every day</l>
+                  <l>The King <hi>Pandoſto</hi> would repair, to pay</l>
+                  <l>A dolorous Tribute, where (lamenting) we</l>
+                  <l>Will leave him, and review the raging ſea,</l>
+                  <l>Where his young Daughter floats on <hi>Neptunes</hi> back,</l>
+                  <l>High Providence protecting her from wrack.</l>
+               </lg>
+            </div>
+            <div n="3" type="canto">
+               <head>CANT. III.</head>
+               <lg>
+                  <l>
+                     <hi>The Child that floated on the Main,</hi>
+                  </l>
+                  <l>
+                     <hi>Is ſav'd by a</hi> Sicilian <hi>Swain:</hi>
+                  </l>
+                  <l>
+                     <hi>Who foſters her with happy care,</hi>
+                  </l>
+                  <l>
+                     <hi>Till ſhe is almoſt fit to bear:</hi>
+                  </l>
+                  <l>
+                     <hi>Her glorious beauty is made known,</hi>
+                  </l>
+                  <l>
+                     <hi>To King</hi> Egiſtus'<hi>s only Son;</hi>
+                  </l>
+                  <l>
+                     <hi>Who comes to gaze, but when they part,</hi>
+                  </l>
+                  <l>Fawnia <hi>ſecludes his Princely heart:</hi>
+                  </l>
+                  <pb facs="tcp:110367:9"/>
+                  <l>
+                     <hi>(Doubting his Father's rage) they flye</hi>
+                  </l>
+                  <l>
+                     <hi>VVith an intent for</hi> Italy,</l>
+                  <l>
+                     <hi>But by a ſullen fate are driven</hi>
+                  </l>
+                  <l>
+                     <hi>Into a fair</hi> Bohemian <hi>Haven:</hi>
+                  </l>
+                  <l>Doraſtus <hi>is to Priſon ſent,</hi>
+                  </l>
+                  <l>(To Fawnia'<hi>s direful diſcontent)</hi>
+                  </l>
+                  <l>
+                     <hi>VVho now is known</hi> Paridoſto'<hi>s Heir;</hi>
+                  </l>
+                  <l>
+                     <hi>All to</hi> Sicilia <hi>then repair:</hi>
+                  </l>
+                  <l>
+                     <hi>There theſe two Lovers (crost by Fate</hi>
+                  </l>
+                  <l>
+                     <hi>Till now) becomes incorporate:</hi>
+                  </l>
+                  <l>Pandoſto <hi>kills himſelf, and leaves</hi>
+                  </l>
+                  <l>
+                     <hi>His Crown,</hi> Doraſtus <hi>it receives.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>THe Infant Princeſs by a cruel doom,</l>
+                  <l>Allow'd in bright-hair'd <hi>Thetis</hi> angry womb</l>
+                  <l>(Toſt by the mercileſs winds and angry ſeas)</l>
+                  <l>Avoids the horrid ſhock for two whole days</l>
+                  <l>But had not ſcap'd the third, if ſhe that guides</l>
+                  <l>Saphire-hew'd <hi>Neptune,</hi> and in triumph ride</l>
+                  <l>Over the ſurface of the ſwelling deep,</l>
+                  <l>Had not commanded <hi>Spio</hi> ſafe to keep</l>
+                  <l>The Royal babe; the plyant Nymph obeys</l>
+                  <l>Guiding the boat through <hi>Neptunes</hi> pathleſs ways</l>
+                  <l>Till on the Coaſt of <hi>Sicily</hi> it ſtands,</l>
+                  <l>There <hi>Spio</hi> leaves it ſticking on the ſands:</l>
+                  <l>It fortuned a ſhepherd that had loſt</l>
+                  <l>One of his Flock, implores about the Coaſt,</l>
+                  <l>His ſheep he ſeekt in vain: but in's retreat</l>
+                  <l>The ſhepherd hears this pretty Lamb to bleat</l>
+                  <pb facs="tcp:110367:9"/>
+                  <l>He ſtands amaz'd a while being crampt with fear,</l>
+                  <l>But taking heart of grace, he comes more near:</l>
+                  <l>Finding the faireſt Babe e're ſeen with eye,</l>
+                  <l>Wrapt in a Mantle broidered curiouſly:</l>
+                  <l>The ſhepherd (who's aſtoniſht at the thing)</l>
+                  <l>Reſolves to bear the Child unto the King;</l>
+                  <l>The pretty Bantling in his arms he bears,</l>
+                  <l>And preſently unto his Cot repairs:</l>
+                  <l>But as the ſhepherd ſeiz'd the Royal Child,</l>
+                  <l>A Purſe of Gold he at her feet beheld:</l>
+                  <l>His mind is altered now, himſelf will keep</l>
+                  <l>The Infant (who does writhe his head &amp; weep,</l>
+                  <l>Wanting the dulcide Dug) but he haſts home,</l>
+                  <l>And is no ſooner to his Manſion come,</l>
+                  <l>But the Child cries aloud; the ſhepherdeſs</l>
+                  <l>(Amaz'd) with both her hands her ſelf doth bleſs.</l>
+                  <l>
+                     <hi>Women (tho' excellent) are ſo much accurſt</hi>
+                  </l>
+                  <l>
+                     <hi>By Nature, that they ſtill believe the worſt:</hi>
+                  </l>
+                  <l>She thinks it is ſome Baſtard, ſeizes on</l>
+                  <l>A Cudgel, vowing Chaſtigation:</l>
+                  <l>The good man ſeeing her, (who wore the Breeches)</l>
+                  <l>Arm'd with her Mace, ſtrives with the faireſt ſpeeches,</l>
+                  <l>To pacific her rage, but his ſweet Honey</l>
+                  <l>Cannot be won, until the Purſe of Money</l>
+                  <l>Greet her gray eyes; declaring all the matter,</l>
+                  <l>How he had found the Infant on the water:</l>
+                  <l>She then began to ſimper ſomewhat ſweetly,</l>
+                  <l>And in her arms ſhe takes the Babe moſt neatly;</l>
+                  <pb facs="tcp:110367:10"/>
+                  <l>Be ſure (quoth he) you never blab our ſtore,</l>
+                  <l>Profit (qd. ſhe) is a good Hatch to th' door:</l>
+                  <l>All things in order fet, he carefully</l>
+                  <l>Doth keep his ſheep, ſhe ſings a Lullaby</l>
+                  <l>At home unto her Babe: the Child grew tall,</l>
+                  <l>Inrich'd with all thoſe Graces which we call</l>
+                  <l>Supreamly excellent; ſhe's <hi>Fawnia</hi> nam'd,</l>
+                  <l>
+                     <hi>Fawnia,</hi> that ſhall in future time be fam'd:</l>
+                  <l>The honeſt ſhepherd and the ſhepherdeſs</l>
+                  <l>Her Father and Mother ſhe doth gueſs;</l>
+                  <l>Whom ſhe obey'd in all things, yet her face</l>
+                  <l>Was ſo Coeleſtial; and with ſuch a grace</l>
+                  <l>She bears her ſelf (ſo young, and yet ſo ſage)</l>
+                  <l>All men might run and ſee her Parentage.</l>
+                  <l>The Swainlings who live near, do wonder ſore</l>
+                  <l>That <hi>Porrus,</hi> who was once ſo very poor,</l>
+                  <l>Should on the ſudden have ſuch wondrous ſtore</l>
+                  <l>Bleſt with a daughter too, whoſe wit &amp; feature</l>
+                  <l>Almoſt declar'd ſhe was no mortal creature;</l>
+                  <l>Who now ſuch favour finds in each man's eye,</l>
+                  <l>
+                     <hi>Sicilia</hi>'s Prince hears of her fulgency;</l>
+                  <l>
+                     <hi>Egiſtus</hi> Son <hi>(Doraſtus)</hi> whoſe rare parts</l>
+                  <l>Wan <hi>him</hi> the peoples <hi>wonder,</hi> with their hearts:</l>
+                  <l>Now by the gods (qd. he) ſpeaking in laughter,</l>
+                  <l>I will go ſee the ſhepherds handſom daughter:</l>
+                  <l>Who kept her fathers ſheep with ſolemn care.</l>
+                  <l>The chearful Sun did for the Weſt prepare,</l>
+                  <l>When Prince <hi>Doraſtus</hi> goes from Court, ſet on,</l>
+                  <l>And finds the faireſt <hi>Fawnia</hi> all alone;</l>
+                  <l>
+                     <hi>Somnus</hi> had ſeiz'd her ſenſes on the ground,</l>
+                  <pb facs="tcp:110367:10"/>
+                  <l>Cloth'd with ſweet graſs, ſhe ſlept, her head was crown'd</l>
+                  <l>With a fine flowry Chaplet, <hi>Flora</hi> ſhe,</l>
+                  <l>Or arrow-loving <hi>Cynthia</hi> ſeem'd to be:</l>
+                  <l>But while the Prince doth feed his greedy eyes</l>
+                  <l>His noble heart becomes her beauties prize:</l>
+                  <l>Who waking, wonders; ſhe conceits ſome god</l>
+                  <l>Had left the pleaſures of his bright aboad,</l>
+                  <l>To bleſs Mortality, upon her knee</l>
+                  <l>She falls; Incomparable <hi>Mago,</hi> quoth he,</l>
+                  <l>I am no Deity; <hi>though Princes are</hi>
+                  </l>
+                  <l>
+                     <hi>Call'd gods, like other mortal men they fare,</hi>
+                  </l>
+                  <l>
+                     <hi>And travel to the Grave the ſelf-ſame way.</hi>
+                  </l>
+                  <l>I am thy ſlave, moſt beautious <hi>Fawnia,</hi>
+                  </l>
+                  <l>Behold <hi>Doraſtus</hi> King <hi>Egiſtus</hi> Son,</l>
+                  <l>Implores thy love, ſure <hi>Fawnia</hi> can be won;</l>
+                  <l>The ſhepherdeſs (whoſe colour went and came)</l>
+                  <l>To hear of Love, and Prince <hi>Dorastus</hi> Name,</l>
+                  <l>Replies, <hi>My gracious Lord, it is your will</hi>
+                  </l>
+                  <l>
+                     <hi>To jeſt with her who ſhall adore you ſtill.</hi>
+                  </l>
+                  <l>But ſimple ſhepherds never aim ſo high</l>
+                  <l>As Princes Courts; the brow of Majeſty</l>
+                  <l>Breaks their frail ſenſes, Odours poyſon them,</l>
+                  <l>They dare not gaze upon a Diadem.</l>
+                  <l>This ſaid, ſhe roſe, and reverently bow'd,</l>
+                  <l>While 1000 thoughts about her ſoul do crowd:</l>
+                  <l>The Prince repay'd her courteſie with a kiſs;</l>
+                  <l>Can Heaven (qd. he) afford a greater bliſs?</l>
+                  <l>Now by the Powers coeleſtial, ſhould my father</l>
+                  <l>(As ſure he will) &amp; all earthly Kings together,</l>
+                  <pb facs="tcp:110367:11"/>
+                  <l>Conſpire to hinder my Reſolves, I'de do</l>
+                  <l>What my unbounded thoughts do prompt me to;</l>
+                  <l>I'le wed thee <hi>Fawnia,</hi> we this night will fly</l>
+                  <l>From hence (my Dear) to fertile <hi>Italy:</hi>
+                  </l>
+                  <l>Good ſtore of Gold and Jewels we will bear</l>
+                  <l>Along, the rich find friendſhip every where:</l>
+                  <l>
+                     <hi>Fawnia</hi> replies, Your Highneſs ſpeech ſhall be,</l>
+                  <l>As true and ſacred Oracles to me.</l>
+                  <l>Diſpoſe your humble hand maid as you pleaſe,</l>
+                  <l>Within theſe few hours we will take the ſeas;</l>
+                  <l>(Quoth he) I have a truſty ſervant, who</l>
+                  <l>I know will further what I lift to do:</l>
+                  <l>Him will I ſend to thee within this hour,</l>
+                  <l>Him follow; and may the Almighty power</l>
+                  <l>Proſper our loves: this ſaid, they kiſs &amp; part;</l>
+                  <l>
+                     <hi>Doraſtus</hi> ſoon (aided by <hi>Capnia</hi>'s art)</l>
+                  <l>Fills three fair caſks full of Gold, beſide</l>
+                  <l>Trunks full of rich Attire for his fair Bride:</l>
+                  <l>A ſhip lies ready, and (as their intents</l>
+                  <l>Were own'd by Heaven) no rude North-wind rents</l>
+                  <l>The rolling waves, while things preparing were</l>
+                  <l>
+                     <hi>Capnia</hi> doth unto <hi>Fawnia</hi> repair;</l>
+                  <l>Who welcomes this true ſervant to her Lord,</l>
+                  <l>By whom ſhe preſently is brought on board:</l>
+                  <l>The Mariners finding ſuch pleaſant gales,</l>
+                  <l>Prepape for lanching, and expand their ſails:</l>
+                  <l>When lo, <hi>Doraſtus</hi> comes and clips his Dear,</l>
+                  <l>And now they on the raging Ocean are;</l>
+                  <l>Who ſlatters for a while, but ſuddenly</l>
+                  <l>A paleful darkneſs muffles up the sky:</l>
+                  <pb facs="tcp:110367:11"/>
+                  <l>The winds are all inlarg'd, dire thunders <hi>heard,</hi>
+                  </l>
+                  <l>The Maſter pores in vain upon the Card:</l>
+                  <l>All look for death, when lo, a minutes time</l>
+                  <l>Makes ſatisfaction for three days crime:</l>
+                  <l>All's whiſt, and they are lodg'd upon the port</l>
+                  <l>That's not far diſtant from <hi>Pandoſto</hi>'s Court,</l>
+                  <l>
+                     <hi>Doraſtus</hi> droops ſo to miſtake his way,</l>
+                  <l>Inſtead of <hi>Italy, Bohemia.</hi>
+                  </l>
+                  <l>
+                     <hi>Fawnia</hi> laments, for now, behold, there came</l>
+                  <l>Some of <hi>Pandoſto</hi>'s Guard, to know what name</l>
+                  <l>The Ship did bear, and preſently to bring</l>
+                  <l>All her Inhabitants unto the King:</l>
+                  <l>There no excuſe can ſerve, along they go,</l>
+                  <l>
+                     <hi>Doraſtus, Fawnia,</hi> and <hi>Capnio,</hi>
+                  </l>
+                  <l>With lowly homage, humbled on the knee,</l>
+                  <l>They do ſalute <hi>Bohemia</hi>'s Majeſty;</l>
+                  <l>Who askt <hi>Doraſtus</hi> what's his name, &amp; whence</l>
+                  <l>He came, and ſtraitway renders his pretence:</l>
+                  <l>My name, Sir, is <hi>Meleagrus,</hi> by my birth</l>
+                  <l>A Knight, brought up on <hi>Trapolonian</hi>'s earth:</l>
+                  <l>This Gentlewoman, whom I mean to make</l>
+                  <l>My wife, is an <hi>Italian,</hi> for whoſe ſake</l>
+                  <l>(Doubting her friends conſent) I took my way</l>
+                  <l>By partial Fate, to <hi>Trapolonia;</hi>
+                  </l>
+                  <l>But forc'd by tempeſt hither ('gainſt my mind)</l>
+                  <l>Where I ſhall hope hoſpicious friends to find,</l>
+                  <l>
+                     <hi>Pandoſto</hi> ſtarting from his Throne, replies,</l>
+                  <l>Now by the everliving Deities,</l>
+                  <l>Thou art a perjur'd <hi>Traytor,</hi> and haſt won</l>
+                  <l>This Lady to her ſure deſtruction;</l>
+                  <pb facs="tcp:110367:12"/>
+                  <l>By curſed frauds, who for her grace &amp; beauty</l>
+                  <l>Merits that mighty Kings ſhould do her duty</l>
+                  <l>And till I hear of her deſcent, and can</l>
+                  <l>Prove that thou art a <hi>Trapolonian,</hi>
+                  </l>
+                  <l>A Priſon ſhall contain thee. No reply</l>
+                  <l>
+                     <hi>Doraſtus</hi> made, being hurried preſently</l>
+                  <l>To priſon; <hi>Fawnia</hi> wrings her Lilly palms,</l>
+                  <l>And ſwoons away, vext with unceſſant qualms</l>
+                  <l>
+                     <hi>Pandoſto,</hi> who (tho' old and ſapleſs grown)</l>
+                  <l>Loves the lewd act more than he lov'd his Crown,</l>
+                  <l>He deeply doats on <hi>Fawnia,</hi> comforts her,</l>
+                  <l>Promiſing, if ſhe'l preſently confer</l>
+                  <l>Her love on him, he'l inſtantly ſet free</l>
+                  <l>Her Knight, and raiſe him unto dignity:</l>
+                  <l>She ſcarce refrains to pull the <hi>Tyrants</hi> beard,</l>
+                  <l>Calls him a Dog for <hi>Footy Dis</hi> prepar'd.</l>
+                  <l>A month is paſt ſince King <hi>Egiſtus</hi> loſt</l>
+                  <l>His ſon, who ſends about to every coaſt.</l>
+                  <l>At laſt his willy Meſſengers reſort,</l>
+                  <l>With haſty motion, to <hi>Pandoſto</hi>'s Court;</l>
+                  <l>Who kindly welcomes them, their charge is thus,</l>
+                  <l>Where e're they find his ſon, with courteous</l>
+                  <l>And winged language to convene him home,</l>
+                  <l>But if they find he will yet further rome,</l>
+                  <l>To bring him into <hi>Sicily</hi> by force:</l>
+                  <l>But for poor <hi>Fawnia,</hi> her doom is worſe,</l>
+                  <l>She muſt be murther'd inſtantly, and ſo</l>
+                  <l>The Princes ſervant, faithful <hi>Capnio;</hi>
+                  </l>
+                  <pb facs="tcp:110367:12"/>
+                  <l>They had no ſooner told the Embaſſy,</l>
+                  <l>But King <hi>Pandoſto</hi> ſendeth preſently</l>
+                  <l>For <hi>Meleagrus;</hi> he's <hi>Sicilia</hi>'s Heir</l>
+                  <l>He knows, and he is glad he has him there:</l>
+                  <l>
+                     <hi>Doraſtus</hi> wonders at this great mutation,</l>
+                  <l>But more to ſee ſome Lords of his own nation.</l>
+                  <l>There is no bogling now, <hi>Pandoſto</hi>'s glad</l>
+                  <l>That he ſhall manifeſt the hate he had</l>
+                  <l>Conceiv'd 'gainſt <hi>Fawnia</hi> for her great diſdain</l>
+                  <l>Commanding ſhe and <hi>Capnio</hi> ſhould be ſlain.</l>
+                  <l>
+                     <hi>Fawnia</hi> (no doubt, inſpir'd by Heaven) cries,</l>
+                  <l>O why did the cruel Deſtinies</l>
+                  <l>Cauſe Prince <hi>Doraſtus</hi> to affect a Maid</l>
+                  <l>So far beneath him, now to death betray'd?</l>
+                  <l>But ſince I muſt forſake the World, take here</l>
+                  <l>Brave Prince, this chain, which ſtill for my ſake wear,</l>
+                  <l>Which from my Infancy has ever been,</l>
+                  <l>About my neck, but till now never ſeen.</l>
+                  <l>
+                     <hi>Pandoſto</hi> ſtarts, he knew the chain of old,</l>
+                  <l>It was his wives: he then began to hold</l>
+                  <l>His thoughts in ſtrict ſuſpence, compares the time</l>
+                  <l>Since (mad with rage) he acted that <hi>black</hi> crime</l>
+                  <l>He finds ſhe is his Daughter; ſtrait he rears</l>
+                  <l>Himſelf from's throne, watring his cheeks with tears</l>
+                  <l>Ah <hi>Fawnia!</hi> my ſweet <hi>Fawnia,</hi> he doth cry,</l>
+                  <l>All there admire at this ſtrange Colloquie:</l>
+                  <l>
+                     <hi>Fawnia</hi> is not more glad that ſhe has found</l>
+                  <l>So great a Father; then <hi>Doraſtus</hi> crown'd</l>
+                  <l>With glorious hope, to gain ſo brave a wife,</l>
+                  <l>The Lords on both ſides joy, that <hi>now</hi> the ſtrife</l>
+                  <pb facs="tcp:110367:13"/>
+                  <l>'Twixt the <hi>Sicilians</hi> and <hi>Bohemia</hi>'s State,</l>
+                  <l>Shall ceaſe and nought remain of ancient hate</l>
+                  <l>The King great <hi>Feaſts</hi> &amp; <hi>Iuſtings</hi> doth prepare</l>
+                  <l>For joy he now hath found a Female Heir:</l>
+                  <l>Which done, he does imbark himſelf and his,</l>
+                  <l>With Prince <hi>Doraſtus,</hi> and his only bliſs</l>
+                  <l>Divineſt <hi>Fawnia:</hi> the <hi>Sicilian</hi> Peers</l>
+                  <l>He takes along, and <hi>Neptunes</hi> brow appears</l>
+                  <l>So ſmooth, in ſix days they ſee <hi>Syracuſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Egiſtus</hi> marvels when he hears the news</l>
+                  <l>And having heard <hi>Pandoſto</hi>'s ſtory, ſends</l>
+                  <l>For <hi>Porrus,</hi> who was in the Jaylors hands,</l>
+                  <l>Who tells the truth of all, how <hi>Fawnia</hi> ſcapt,</l>
+                  <l>Shewing the Mantle wherein ſhe was wrapt:</l>
+                  <l>
+                     <hi>Pandoſto</hi> Knights him, and the Lovers are</l>
+                  <l>The next day married, <hi>Hymen</hi> every where</l>
+                  <l>Is chanted: <hi>Lo Hymen</hi> each man ſings,</l>
+                  <l>And an eternal League 'twixt the two Kings</l>
+                  <l>Concluded, every Commoner is feaſted.</l>
+                  <l>For forty days, ſo long the triumph laſted;</l>
+                  <l>Which was no ſooner ended, but his ſoul</l>
+                  <l>Vext for his former facts, ſo black and foul</l>
+                  <l>Having betraid his Friend, and ſlain his Wife,</l>
+                  <l>
+                     <hi>Pandoſto</hi>'s own hands takes <hi>Pandoſto</hi>'s life:</l>
+                  <l>Whoſe death for many days they do bewail,</l>
+                  <l>And then <hi>Doraſtus</hi> and his Queen ſet ſail</l>
+                  <l>For fair <hi>Bohemia,</hi> where he ſumptuouſly</l>
+                  <l>Inters his Father, Governs graciouſly</l>
+                  <l>For many years, till Death (with little pain)</l>
+                  <l>Did put a period to his Life and Reign.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
